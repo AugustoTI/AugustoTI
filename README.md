@@ -1,5 +1,5 @@
 <h1>Ola Mundo! Tudo bem?</h1>
-<hr />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoTI&layout=compact&theme=material-palenight'>
     <p>
          Eu sou o Augusto César. Tenho 18 anos e adoro a programação. Sempre procuro 
          cada dia melhorar cada vez mais minhas skils.
