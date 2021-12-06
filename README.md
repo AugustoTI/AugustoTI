@@ -15,7 +15,5 @@
     <ul>
         <li><img width='50' src="https://img.icons8.com/dusk/64/000000/webpack.png"/></li>
         <li><img width='50' src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/></li>
-        <li><img width='50' src="https://img.icons8.com/color/48/000000/mongodb.png"/></li>
-        <li><img width='50' src="https://img.icons8.com/color/48/000000/nodejs.png"/></li>
     </ul>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoTI&layout=compact&theme=material-palenight'>
