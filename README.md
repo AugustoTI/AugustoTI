@@ -1,28 +1,51 @@
-# Olá! Sou o Augusto 😁
+<!-- Your title -->
 
-Tenho 19 anos e sou um **Desenvolvedor Front End** 👨🏻‍💻
+## Hi, I'm Augusto César, a Developer 🚀 from Brazil.
 
-Estou em busca da minha primeira oportunidade 🤩
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
 
-## Tecnologias:
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AugustoTI)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/augustocesarti/)
 
-Atualmente, eu trabalho com as seguinte tecnologias:
+&nbsp;
+**Talking about Personal Stuffs:**
 
-- HTML
-- CSS
-- SCSS
-- JavaScript
-- TypeScript
-- React
-- GIT/GITHUB
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-## Línguas:
+- 👨🏽‍💻 I’m currently looking for a job 🧐🍹
+- 🌱 I’m currently learning NextJS and NodeJS
+- 🤔 I’m looking for help with Design Pattern 😭
+- 💬 Ask me about anything, I am happy to help
 
-- Português: Nativo
-- Inglês: Básico
+**Languages and Tools:**
 
-## Redes:
-
-Acessar meu [linkedin](https://www.linkedin.com/in/augusto-c%C3%A9sar-07114421b/) aqui.
-
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoTI&layout=large&theme=dracula'>
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+<p>
+  <a href="https://github.com/AugustoTI/">
+    <img width="55%" align="right" alt="Augusto's github stats" src="https://github-readme-stats.vercel.app/api?username=augustoTI&show_icons=true&hide_border=true&theme=tokyonight" />
+  </a>
+  
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="5%" src="https://www.svgrepo.com/show/369457/nextjs.svg"></code>
+  <code><img width="5%" src="https://www.svgrepo.com/show/354259/react.svg"></code>
+  <code><img width="5%" src="https://www.svgrepo.com/show/349540/typescript.svg"></code>
+  <br />
+  <code><img width="5%" src="https://www.svgrepo.com/show/373669/html.svg"></code>
+  <code><img width="5%" src="https://www.svgrepo.com/show/373535/css.svg"></code>
+  <code><img width="5%" src="https://www.svgrepo.com/show/355081/js.svg"></code>
+  <br />
+  <code><img width="5%" src="https://www.svgrepo.com/show/373623/git.svg"></code>
+  <code><img width="5%" src="https://www.svgrepo.com/show/341847/github.svg"></code>
+  <code><img width="5%" src="https://www.svgrepo.com/show/353735/firebase.svg"></code>
+  <br />
+  <code><img width="5%" src="https://www.svgrepo.com/show/354987/figma.svg"></code>
+  <code><img width="5%" src="https://www.svgrepo.com/show/374104/styled.svg"></code>
+  <code><img width="5%" src="https://www.svgrepo.com/show/349502/sass.svg"></code>
+</p>
